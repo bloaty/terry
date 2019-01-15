@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"mdmath.macros": {
+			"\\Succ": "#1\\!+\\!\\!\\!+",
+			"\\RR": "\\mathbb{R}"
+		}
+	}
+}
